@@ -1,2 +1,2 @@
-## This is my github profile.
-I'll probably come back here and update this eventually.
+## Hi!
+I like coding with python and scratch.
